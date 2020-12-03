@@ -3,6 +3,6 @@ package gomodtesthello
 import "fmt"
 
 
-func hello()  {
+func Hello()  {
 	fmt.Println("hello")
 }
